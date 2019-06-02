@@ -1,0 +1,15 @@
+{
+    "name": "Malee.Editor",
+    "references": [
+        "GUID:071b842df85f04d4fae86b5c7234d477"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

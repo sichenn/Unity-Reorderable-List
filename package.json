@@ -1,0 +1,14 @@
+{
+    "name": "com.sichenn.reordrablelist",
+    "displayName": "Reorderable List",
+    "description": "LAn attempt to mimic the ReorderableList within Unity while adding some extended functionality.",
+    "version": "1.0.0-alpha",
+    "category": "Editor",
+    "samples": [
+        {
+            "displayName": "Editor Examples",
+            "description": "",
+            "path": "Samples~/Examples"
+        }
+    ]
+}
