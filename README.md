@@ -17,6 +17,21 @@ An attempt to mimic the ReorderableList within Unity while adding some extended 
 * Sorting (sort based on field, ascending and descending)
 * Surrogates (Enable adding elements of a different type)
 
+## Install
+
+Find `Packages/manifest.json` in your project and edit it to look like this:
+```js
+{
+  "dependencies": {
+    "com.sichenn.reorderablelist": "https://github.com/sichenn/Unity-Reorderable-List.git#upm",
+    ...
+  }
+}
+```
+To update the package, change `#{version}` to the target release version.
+
+#
+
 ## Usage
 
 There are two ways to use the ReorderableList
