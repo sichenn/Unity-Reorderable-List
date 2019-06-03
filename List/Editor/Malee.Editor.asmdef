@@ -1,7 +1,7 @@
 {
     "name": "Malee.Editor",
     "references": [
-        "GUID:071b842df85f04d4fae86b5c7234d477"
+        "GUID:1e74a8da63604af46ba53371026055b8"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
